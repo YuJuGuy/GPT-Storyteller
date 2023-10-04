@@ -1,0 +1,7 @@
+openai==0.28.0
+openai-whisper==20230314
+python-dotenv==1.0.0
+moviepy==1.0.3
+pysrt==1.1.2
+requests==2.31.0
+faster-whisper==0.8.0
